@@ -1,3 +1,8 @@
 {
-  "secretCode": "JeizX9"
+  "allowed": [
+    {
+      "number": "6283178651121",
+      "secretCode": "1"
+    }
+  ]
 }
